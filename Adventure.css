@@ -370,9 +370,3 @@ header{
     gap: 10px;
     font-size: 1.2em;
 }
-
-@media (max-width: 678px) {
-    .footer-section{
-
-    }
-}
